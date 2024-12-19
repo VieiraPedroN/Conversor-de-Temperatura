@@ -1,0 +1,15 @@
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/bin/Debug/net9.0/Conversor_de_temperatura
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/bin/Debug/net9.0/Conversor_de_temperatura.deps.json
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/bin/Debug/net9.0/Conversor_de_temperatura.runtimeconfig.json
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/bin/Debug/net9.0/Conversor_de_temperatura.dll
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/bin/Debug/net9.0/Conversor_de_temperatura.pdb
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.AssemblyInfoInputs.cache
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.AssemblyInfo.cs
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.csproj.CoreCompileInputs.cache
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.sourcelink.json
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.dll
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/refint/Conversor_de_temperatura.dll
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.pdb
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/Conversor_de_temperatura.genruntimeconfig.cache
+/home/vieira/Documentos/Estudo/Conversor_de_temperatura/obj/Debug/net9.0/ref/Conversor_de_temperatura.dll
